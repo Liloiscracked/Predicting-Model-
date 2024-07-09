@@ -1,0 +1,9 @@
+pandas
+matplotlib
+folium
+python-dotenv
+scikit-learn
+scipy
+statsmodels
+seaborn
+numpy
