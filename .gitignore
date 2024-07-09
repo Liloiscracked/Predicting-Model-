@@ -1,1 +1,7 @@
 .DS_Store
+*.xlsx
+*.kmz
+*.html
+*.csv
+*.env
+main.py
